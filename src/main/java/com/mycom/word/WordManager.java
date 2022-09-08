@@ -41,7 +41,7 @@ public class WordManager {
             } else if (menu == 5) {
                 wordCRUD.updateItem();
             } else if (menu == 6) {
-                //단어 삭제
+                wordCRUD.deleteItem();
             } else if (menu == 7) {
                 //파일 저장
             }
