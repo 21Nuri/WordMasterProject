@@ -39,7 +39,7 @@ public class WordManager {
             } else if (menu == 4) {
                 wordCRUD.addWord();
             } else if (menu == 5) {
-                //단어 수정
+                wordCRUD.updateItem();
             } else if (menu == 6) {
                 //단어 삭제
             } else if (menu == 7) {
