@@ -34,9 +34,9 @@ public class WordManager {
             else if(menu == 1){
                 wordCRUD.listAll();
             } else if(menu == 2){
-                //수준별 단어 보기
+                wordCRUD.searchLevel();
             } else if (menu == 3) {
-                //단어 검색
+                wordCRUD.searchWord();
             } else if (menu == 4) {
                 wordCRUD.addItem();
             } else if (menu == 5) {
