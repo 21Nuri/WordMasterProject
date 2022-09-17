@@ -14,22 +14,22 @@
     > <img src = "screenshot/0 나가기 실행예시.png" width = "600">
     
   + 2 수준별 단어보기
-    ><img sre = "screenshot/[2. 수준별 단어보기] 메뉴 선택.png" width = "600">
+    > <img sre = "screenshot/[2. 수준별 단어보기] 메뉴 선택.png" width = "600">
   
   + 3 단어 검색
-    ><img sre = "screenshot/[3. 단어 검색] 메뉴 선택.png" width = "600">
+    > <img sre = "screenshot/[3. 단어 검색] 메뉴 선택.png" width = "600">
   
   + 5 단어 수정
-    ><img sre = "screenshot/[5. 단어 수정] 메뉴 선택.png" width = "600">
+    > <img sre = "screenshot/[5. 단어 수정] 메뉴 선택.png" width = "600">
   
   + 6 단어 삭제
-    ><img sre = "screenshot/[6. 단어 삭제] 메뉴 선택.png" width = "600">
+    > <img sre = "screenshot/[6. 단어 삭제] 메뉴 선택.png" width = "600">
   
   + 7 파일 저장
-    ><img sre = "screenshot/[7. 파일 저장] 메뉴 선택.png" width = "600">
+    > <img sre = "screenshot/[7. 파일 저장] 메뉴 선택.png" width = "600">
 
   + 최종 재실행
-    ><img sre = "screenshot/새로 실행 후 1번 선택.png" width = "600">
+    > <img sre = "screenshot/새로 실행 후 1번 선택.png" width = "600">
 
 ----------------
 ## Project1 중간 소감 및 어려운점
